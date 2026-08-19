@@ -1,6 +1,6 @@
 /*
 Business Problem
-Brightline Electronics is a mid-sized e-commerce company selling laptops, mobiles, headphones, and other electronic devices across major South African cities. Leadership doesn't have a clear picture of how the business is actually performing — they can see sales are happening, but not which products or customers are driving revenue, whether growth is steady or seasonal, or where the biggest opportunities are.
+Brightline Electronics is a mid-sized e-commerce company selling laptops, mobiles, headphones, and other electronic devices across major South African cities. Leadership doesn't have a clear picture of how the business is actually performing â€” they can see sales are happening, but not which products or customers are driving revenue, whether growth is steady or seasonal, or where the biggest opportunities are.
 As the data analyst, you've been asked to build a database from the raw sales records and answer the following using SQL:
 1.Total Revenue?
 2.Total orders and Average order value?
