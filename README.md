@@ -4,7 +4,7 @@ A 4-table relational database built in Microsoft SQL Server (T-SQL), modeling cu
 
 ## Business Problem
 
-Brightline Electronics is a mid-sized e-commerce company selling laptops, mobiles, headphones, and other electronic devices across major South African cities. Leadership doesn't have a clear picture of how the business is actually performing — they can see sales are happening, but not which products or customers are driving revenue, whether growth is steady or seasonal, or where the biggest opportunities are.
+Brightline Electronics is a mid-sized e-commerce company selling laptops, mobiles, headphones, furniture, and other electronic devices across major South African cities. Leadership doesn't have a clear picture of how the business is actually performing — they can see sales are happening, but not which products or customers are driving revenue, whether growth is steady or seasonal, or where the biggest opportunities are.
 
 As the data analyst, the task was to build a database from the raw sales records and answer the following using SQL:
 
