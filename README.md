@@ -63,7 +63,7 @@ brightline-electronics-sales-analysis/
 
 ## Answering the Business Questions
 
-Each question is answered with a dedicated T-SQL query in [`sql/brightline_ecommerce.sql`](sql/brightline_ecommerce.sql), explained individually in [`docs/queries.md`](docs/queries.md). Example — Question 7 (repeat customers):
+Each question is answered with a dedicated T-SQL query in [`sql/ecommerce.sql`](sql/ecommerce.sql), explained individually in [`docs/queries.md`](docs/queries.md). Example — Question 7 (repeat customers):
 
 ```sql
 SELECT 
@@ -89,7 +89,7 @@ Full write-up, covering all 7 questions with figures and recommendations, in [`d
 
 ## Dashboard
 
-![Brightline Electronics Dashboard](diagrams/dashboard_preview.png)
+![Brightline Electronics Dashboard](diagrams/dashboard_preview.PNG)
 
 The Excel dashboard ([`excel/Ecommerce_Sales_Analysis.xlsx`](excel/Ecommerce_Sales_Analysis.xlsx)) presents the answers to all 7 questions visually: KPI cards for Total Revenue, Total Orders, and Average Order Value; a monthly revenue trend line chart; bar charts for top-selling products and top customers; a pie chart showing revenue split by category; and a repeat customers table.
 
