@@ -89,9 +89,9 @@ Full write-up, covering all 7 questions with figures and recommendations, in [`d
 
 ## Dashboard
 
-![Brightline Electronics Dashboard](diagram/dashboard_preview.png)
+![Brightline Electronics Dashboard](diagrams/dashboard_preview.png)
 
-The Excel dashboard ([`excel/Brightline_Dashboard.xlsx`](excel/Brightline_Dashboard.xlsx)) presents the answers to all 7 questions visually: KPI cards for Total Revenue, Total Orders, and Average Order Value; a monthly revenue trend line chart; bar charts for top-selling products and top customers; a pie chart showing revenue split by category; and a repeat customers table.
+The Excel dashboard ([`excel/Ecommerce_Sales_Analysis.xlsx`] (excel/Ecommerce_Sales_Analysis.xlsx)) presents the answers to all 7 questions visually: KPI cards for Total Revenue, Total Orders, and Average Order Value; a monthly revenue trend line chart; bar charts for top-selling products and top customers; a pie chart showing revenue split by category; and a repeat customers table.
 
 > GitHub can't render live Excel charts, so the image above is a static screenshot of the Dashboard sheet — open the `.xlsx` file itself to interact with the pivot tables and charts.
 
