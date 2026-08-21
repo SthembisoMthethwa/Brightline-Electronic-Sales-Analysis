@@ -108,4 +108,4 @@ Groups orders by customer, counts how many orders each placed, and uses `HAVING 
 - All monetary joins run through `Order_items`, since that's where line-item revenue (`Total_price`) actually lives — `Orders.Total_amount` is a stored order-level total, kept in sync with the sum of its line items.
 - `IDENTITY` columns (`Customer_id`, `Product_id`, `Order_id`, `Order_item_id`) are never included in `INSERT` statements — SQL Server assigns them automatically.
 - Foreign keys (`Orders.Customer_id`, `Order_items.Order_id`, `Order_items.Product_id`) enforce that every order/item always references a valid customer/order/product, preventing orphaned records.
--
+
