@@ -48,17 +48,20 @@ The goal: turn raw transactional data into answers leadership can act on.
 
 ```
 brightline-electronics-sales-analysis/
-├── README.md
-├── sql/
-│   └── brightline_ecommerce.sql       -- schema, sample data, and all 7 analysis queries
-├── excel/
-│   └── Brightline_Dashboard.xlsx      -- pivot tables, charts, and dashboard sheet
+
+
+
 ├── diagrams/
-│   ├── er_diagram.png                 -- entity relationship diagram
-│   └── dashboard_preview.png          -- screenshot of the Excel dashboard
+│   ├── ER_ecommerce_Sales.PNG                 -- entity relationship diagram
+│   └── dashboard_preview.PNG          -- screenshot of the Excel dashboard
 └── docs/
     ├── findings.md                    -- key insights from the analysis
     └── queries.md                     -- all 7 SQL queries explained
+├── excel/
+│   └── Ecommerce_Sales_Analysis.xlsx      -- pivot tables, charts, and dashboard sheet
+├── sql/
+│   └── ecommerce.sql       -- schema, sample data, and all 7 analysis queries
+└── README.md
 ```
 
 ## Answering the Business Questions
