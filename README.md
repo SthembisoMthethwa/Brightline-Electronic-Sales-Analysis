@@ -20,7 +20,7 @@ The goal: turn raw transactional data into answers leadership can act on.
 
 ## Entity Relationship Diagram
 
-![Brightline ER Diagram](diagrams/er_diagram.png)
+![Brightline ER Diagram](diagrams/ER_ecommerce_Sales.PNG)
 
 ## Schema Overview
 
