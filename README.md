@@ -40,9 +40,10 @@ The goal: turn raw transactional data into answers leadership can act on.
 
 ## Tech Used
 
-- **Microsoft SQL Server / T-SQL**
-- **SSMS** (SQL Server Management Studio) — schema design, diagramming
+- **Microsoft SQL Server / T-SQL** - database design, data insertion, and all analysis queries
+- **SSMS** (SQL Server Management Studio) — schema creation and database diagramming
 - **Microsoft Excel** — Data Model, pivot tables, PivotCharts, dashboard assembly
+- **Claude AI (Anthropic)** - Used a learning and pair-programming assistant throughout the project 
 
 ## Repository Structure
 
